@@ -2,6 +2,8 @@
 
 ## Práctica de GitHub y Markdown
 
+Hola soy Gabriel y esto es un PR y un fork del repositorio de Ismael
+
 Este es un párrafo con palabras en **negrita**, en *cursiva* y en `código`.
 
 ```bash
